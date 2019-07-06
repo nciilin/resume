@@ -91,7 +91,7 @@ hr {
 }
 
 .banner {
-  background-image: url('./img/rs-cover.jpg');
+  background-image: url('../img/rs-cover.jpg');
   background-position: center center;
   background-size: cover;
   height: 515px;
@@ -364,7 +364,6 @@ section.portfolio .works > .small > img{
   width: 290px;
   height: 270px;
 }
-
 
 
 
