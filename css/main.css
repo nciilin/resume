@@ -63,7 +63,7 @@ section.skills .progressBar .progress  {background: #E6686A;width: 50%;height: 3
 section.skills.offset .progress {transform: translateX(-100%);}
 section.portfolio {text-align: center;margin-bottom: 60px;}
 section.portfolio h2 {margin-bottom: 32px;}
-section.portfolio .swiper-container {width: 668px; height: 501px;}
+section.portfolio .swiper-container {width: 668px; height: 501px; cursor: pointer;}
 
 section.message > ol {
   max-width: 700px;
